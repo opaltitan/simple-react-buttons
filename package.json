@@ -1,11 +1,11 @@
 {
   "name": "simple-react-buttons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple React Buttons component",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "files": [
-    "./build"
+    "/build"
   ],
   "scripts": {
     "copy-files": "copyfiles -u 1 src/models/**/*.d.ts build",
