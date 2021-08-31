@@ -1,6 +1,6 @@
 import { ButtonsComponent } from './Buttons';
 export var Buttons;
-(function (Buttons_1) {
-    Buttons_1.Buttons = ButtonsComponent;
+(function (Buttons) {
+    Buttons.Component = ButtonsComponent;
 })(Buttons || (Buttons = {}));
 ;
