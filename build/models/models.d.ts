@@ -1,4 +1,4 @@
-interface ButtonData {
+export interface ButtonData {
     id: number;
     displayText: string;
     params: Array<any>;
@@ -9,4 +9,3 @@ export interface ButtonsData {
     parentClass: string;
     buttons: Array<ButtonData>;
 }
-export {};

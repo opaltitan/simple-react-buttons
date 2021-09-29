@@ -1,5 +1,5 @@
 
-interface ButtonData {
+export interface ButtonData {
   id: number;
   displayText: string;
   params: Array<any>;
